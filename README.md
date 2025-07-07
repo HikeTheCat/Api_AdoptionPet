@@ -33,15 +33,32 @@ MySQL 8.0+
 NPM 9+
 
 🚀 Como Executar
-1. Clone o repositório
+Baixe o projeto
+
+Acesse:
+https://github.com/HikeTheCat/Api_AdoptionPet
+
+Clique em Code → Download ZIP
+
+Extraia o ZIP em uma pasta no seu computador.
+
+Abra em uma IDE
+
+Abra sua IDE favorita (ex: VS Code).
+
+Abra a pasta onde extraiu o projeto.
+
+Instale as dependências
+
+No terminal da IDE, rode:
+
 bash
-git clone https://github.com/seu-usuario/pet-adoption-api.git
-cd pet-adoption-api
-2. Instale as dependências
-bash
+Copiar
+Editar
 npm install
-3. Configure o banco de dados
-Crie um arquivo .env na raiz do projeto:
+Configure o banco de dados
+
+Na raiz do projeto, crie um arquivo .env com as variáveis necessárias para o banco.
 
 env
 DB_HOST=localhost
